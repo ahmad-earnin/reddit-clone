@@ -1,1 +1,5 @@
-# reddit-clone
+# Swifty Reddit Clone
+
+## License
+
+
